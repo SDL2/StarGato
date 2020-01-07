@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Star Gato</string>
+    <string name="winner1">PLAYER 1 WIN!!</string>
+    <string name="winner2">PLAYER 2 WIN!!</string>
+    <string name="draw">DRAW!!</string>
+    <string name="continue_button">PLAY AGAIN!!</string>
+
+</resources>
