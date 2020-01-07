@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 // el if revise si los numeros del array casilla que corresponden a la actual combinacionG
 // tienen un mismo numero o jugador y que este no sea el numero inicial de casilla no utilizada "0"
    // cuando estos coinciden y no son el cero, este jugador logro una combinacion ganadora y se cambia el
-   //valor del boolean de "juego terminado" a TRUE lo que no deja continuar el juego,,,
+   //valor del boolean de "juego terminado" a TRUE lo que no deja continuar el juego,,,.
 
                 for (int[] combinacionG : combinacionesGanadoras){ //*** quiza esto despues de la animacion? se borra antes de fin de animacion, o boton "OK"
 
